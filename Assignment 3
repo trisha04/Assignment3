@@ -1,0 +1,35 @@
+1.pwd-Print the name of the working directory.It prints the full pathname of the current working directory.
+2. vi-vi editor to edit an existing file or to create a new file from scratch.we can also use this editor to just read a text file.
+3. touch-touch is a standard Unix command-line interface program which is used to update 
+the access date and / or modification date of a file or directory. In its default usage, 
+it is the equivalent of creating or opening a file and saving it without any change to the file contents.
+It updates the dates associated with the file or directory. 
+4. mkdir-make directories.Create the DIRECTORY(ies), if they do not already exist.
+  Mandatory arguments to long options are mandatory for short options too.
+5. rm-rm (short for remove) is a basic UNIX command used to remove objects such as files, directories, device nodes, 
+symbolic links, and so on from the filesystem. To be more precise, rm removes references to objects from the filesystem,
+where those objects might have had multiple references (for example, a file with two different names),
+6. ls-list directory contents.ls List information about the FILEs (the current directory by default). 
+Sort entries alphabetically if none of -cftuvSUX nor --sort is specified. 
+Mandatory arguments to long options are mandatory for short options too.
+7. echo-outputs the strings it is being passed as arguments. 
+It is a command typically used in shell scripts and batch files to output status text to the screen or a file.
+8. cat-read files in the sequence given in its arguments, writing their contents to the standard output in the same sequence.
+The specification mandates the support of one option flag, u for unbuffered output, 
+meaning that each byte is written after it has been read. Many operating systems do this by default and ignore the flag
+9. who-displays a list of users who are currently logged into the computer.
+The who command is related to the command w, which provides the same information but also displays additional data and statistics.
+10. cd- also known as chdir (change directory), is a command-line OS shell command used to change the current working directory 
+It is also available for use in shell scripts and batch files.
+11. date-s used to print out, or change the value of, the system's time and date information.
+12. cal-Cal displays a simple calendar. If arguments are not specified, the current month is displayed.
+13. mv-mv (short for move) is a Unix command that moves one or more files or directories from one place to another.
+If both filenames are on the same filesystem, this results in a simple file rename; 
+otherwise the file content is copied to the new location and the old file is removed
+14. cp- The cp command is a command to create copy of files and directories. 
+The command has three principal modes of operation, expressed by the types of arguments presented to the program for 
+copying a file to another file, one or more files to a directory, or for copying entire directories to another directory. 
+The utility further accepts various command line option flags to detail the operations performed.
+15. which-The command takes one or more arguments; for each of these arguments, it prints the full path of the executable to 
+stdout that would have been executed if this argument had been entered into the shell. It does this by searching for an 
+executable or script in the directories listed in the environment variable PATH.
